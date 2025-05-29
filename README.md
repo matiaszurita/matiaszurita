@@ -59,17 +59,18 @@ Soy Ingeniero en Informática recién titulado y me interesa mucho el desarrollo
 
 ## ⚡ Mi Stack de Desarrollo Web
 
-### Backend:
-- ![Django](https://img.shields.io/badge/Django-%23092E20?logo=django&logoColor=white)
+### 🧠 Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### Base de Datos:
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?logo=postgresql&logoColor=white)
+### 🗄️ Base de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frontend:
-- ![Next.js](https://img.shields.io/badge/Next.js-%23000000?logo=next.js&logoColor=white)
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC?logo=tailwind-css&logoColor=white)
-- ![React](https://img.shields.io/badge/React-%2320232a?logo=react&logoColor=61DAFB)
-- ![Redux](https://img.shields.io/badge/Redux-%23593d88?logo=redux&logoColor=white)
+### 🎨 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 ## 🎓 Certificados
 
