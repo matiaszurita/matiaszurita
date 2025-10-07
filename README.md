@@ -2,11 +2,14 @@
 
 Soy Ingeniero en Informática recién titulado y me interesa mucho el desarrollo web. Durante mi formación me enfoqué en crear soluciones web, desde el backend hasta el frontend, buscando siempre aprender más y mejorar en cada proyecto.
 
+Actualmente realizo una práctica laboral donde desarrollo soluciones web con Next.js y Prisma, enfocadas en optimizar procesos mediante el uso de modelos de Inteligencia Artificial.
+La empresa se distingue por integrar la IA en todo su flujo de trabajo, lo que me ha permitido experimentar con desarrollo asistido por IA y fortalecer mis habilidades técnicas.
+Para acelerar la implementación y mantener un código limpio, utilizo herramientas como Cursor y Windsurf, que me permiten integrar modelos de lenguaje y generar componentes de forma más ágil y precisa.
 
 ## ☕ Sobre mí
 
 - 🎓 Estudié Ingeniería en Informática en INACAP.
-- 🌱 Actualmente estoy profundizando en algoritmos y explorando nuevas tecnologías para fortalecer mi stack.
+- 🌱 En constante aprendizaje de algoritmos, buenas prácticas y nuevas tecnologías para fortalecer mi stack
 - 🔥 *“Nunca se deja de aprender, solo se deja de intentarlo.”*
 - 💼 Si te interesa ver en qué estoy trabajando, podés visitar mi portfolio: [Portfolio](https://portfolio-website-7l8s.vercel.app/)
 - 💬 Si quieres conectar o contactarme, puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/matias-eduardo-zurita-sepulveda-44a925313)
@@ -28,6 +31,9 @@ Soy Ingeniero en Informática recién titulado y me interesa mucho el desarrollo
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+[![n8n](https://img.shields.io/badge/n8n-EA4B8B?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
 
 
 
