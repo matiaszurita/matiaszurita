@@ -1,6 +1,6 @@
 # 👋 Hola Buenas, soy **Matías Zurita**.
 
-Soy Ingeniero en Informática recién titulado y me interesa mucho el desarrollo web. Durante mi formación me enfoqué en crear soluciones web, desde el backend hasta el frontend, buscando siempre aprender más y mejorar en cada proyecto.
+Soy Ingeniero en Informática titulado y me interesa el desarrollo web. Durante mi formación me enfoqué en crear soluciones web, desde el backend hasta el frontend, buscando siempre aprender más y mejorar en cada proyecto.
 
 Actualmente realizo una práctica laboral donde desarrollo soluciones web con Next.js y Prisma, enfocadas en optimizar procesos mediante el uso de modelos de Inteligencia Artificial.
 La empresa se distingue por integrar la IA en todo su flujo de trabajo, lo que me ha permitido experimentar con desarrollo asistido por IA y fortalecer mis habilidades técnicas.
@@ -9,7 +9,6 @@ Para acelerar la implementación y mantener un código limpio, utilizo herramien
 ## ☕ Sobre mí
 
 - 🎓 Estudié Ingeniería en Informática en INACAP.
-- 🌱 En constante aprendizaje de algoritmos, buenas prácticas y nuevas tecnologías para fortalecer mi stack
 - 🔥 *“Nunca se deja de aprender, solo se deja de intentarlo.”*
 - 💼 Si te interesa ver en qué estoy trabajando, podés visitar mi portfolio: [Portfolio](https://portfolio-website-7l8s.vercel.app/)
 - 💬 Si quieres conectar o contactarme, puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/matias-eduardo-zurita-sepulveda-44a925313)
